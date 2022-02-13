@@ -1,0 +1,28 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.text-align img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    
+}
+.text-align{
+    text-align: center;
+    background: 	#FF4500;
+}
+.center{
+    text-align: center;
+}
+#boximg{
+    text-align: center;
+}
+#boximg img {
+    width: 400px;
+    height: auto;
+}
+h2{
+    text-align: center;
+}
